@@ -1,0 +1,6 @@
+{
+  "name": "HHR Mobile Leave",
+  "description": "A mobile-responsive HRMS leave management system integrated with Yii2 backend. Features automated leave calculations, manager email approvals, and real-time balance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
